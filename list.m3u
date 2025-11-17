@@ -365,6 +365,8 @@ https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Ecuador",DirecTV Sports (1080p)
 http://38.183.182.166:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="GolTv.ec@SD" tvg-logo="" group-title="Ecuador",Gol Tv (720p),GolTV HD
+http://200.24.206.132:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg/revision/latest?cb=20251113064305" group-title="Ecuador;Kids",Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest/scale-to-width-down/1000?cb=20240601030018" group-title="Ecuador;Kids",Disney Jr. Latin America South (480p)
