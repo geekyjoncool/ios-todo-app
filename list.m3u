@@ -521,6 +521,10 @@ https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071c
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-id="Triunfo969FM.pr@SD",Triunfo 96.9 FM TV (360p)
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
+#EXTINF:0 tvg-country="PR" tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="Puerto Rico",WAPA-DT1 (WAPA-TV) (1080p)
+https://live.field59.com/wapa/wapa1/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="PR" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Puerto Rico",WAPA-DT2 (WAPA Deportes) (1080p)
+https://live.field59.com/wapa/wapa2/playlist.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-id="WDWLDT1.pr@SD",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" group-title="Puerto Rico" tvg-id="WECN.pr@SD",WECN (Único TV) (720p)
