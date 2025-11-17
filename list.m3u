@@ -379,7 +379,7 @@ https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec@SD" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Ecuador",Marca TV (1080p)
 https://eu1.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="MarioPintoTV.ec@SD" tvg-logo="https://i.imgur.com/9rU6yWo.jpg" group-title="News",Mario Pinto TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MarioPintoTV.ec@SD" tvg-logo="https://i.imgur.com/9rU6yWo.jpg" group-title="Ecuador",Mario Pinto TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="MetropoliMediosTV.ec@SD" tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Music",Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
