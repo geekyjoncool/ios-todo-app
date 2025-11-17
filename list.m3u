@@ -365,7 +365,7 @@ https://video2.lhdserver.es/pjtv/live.m3u8
 http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="GolTv.ec@SD" tvg-logo="" group-title="Ecuador",Gol Tv (720p),GolTV HD
 http://200.24.206.132:8000/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-id="ecdf.ec@SD" tvg-logo="" group-title="Ecuador",El Canal De Futbol (720p),ElCanaldelFutbol HD
+#EXTINF:-1 tvg-id="ecdf.ec@SD" tvg-logo="" group-title="Ecuador",El Canal De Futbol (720p)
 http://200.24.206.132:8000/play/a0iq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FÚTBOL 2 FHD" tvg-logo="http://iptbest.xyz/logo/ECDF.png" tvg-country="EC" group-title="Ecuador",EL CANAL DEL FÚTBOL 2 FHD (Solo Eventos)
 http://iptbest.xyz:8000/DemojomyD/78963201/868
