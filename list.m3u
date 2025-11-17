@@ -53,7 +53,7 @@ https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CMT/ind
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD" tvg-name="CNBC World" tvg-logo="" group-title="USA",CNBC World
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/CNBC_World/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central East (720p)
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-name="Comedy Central East" tvg-logo="https://raw.githubusercontent.com/skydrome/tvg-logos/refs/heads/master/comedy.central.east.us.png" group-title="USA",Comedy Central East (720p)
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.us@SD" tvg-name="Comedy TV" tvg-logo="" group-title="USA",Comedy TV
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
@@ -330,9 +330,9 @@ https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Ecuador",DirecTV Sports (1080p)
 http://38.183.182.166:8000/play/a125/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Ecuador;Kids",Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (480p)
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Ecuador;Kids",Disney Jr. Latin America South (480p)
 http://38.183.182.166:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="DuendeTv.ec@SD" tvg-logo="https://i.imgur.com/6125FPV.jpg" group-title="Ecuador",Duende Tv (720p)
 https://ed29ov.live.opencaster.com/EDokztdeHFwk/index.m3u8
@@ -354,7 +354,7 @@ https://server40.servistreaming.com:3174/live/elsolnetworklive.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="GM7Digital.ec@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg" group-title="Ecuador",GM7 Digital [Not 24/7]
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Latin America (480p)
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Ecuador",History Latin America (480p)
 http://181.188.216.5:18000/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-id="IeanJesusEcuador.ec@SD" tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="Ecuador",IeanJesus Ecuador (720p)
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
@@ -364,7 +364,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-id="LaPerlaRadioTV.ec@SD" tvg-logo="https://i.imgur.com/8wDMgmB.jpg" group-title="Music",La Perla Radio TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8068/index.m3u8
-#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Entertainment" http-referrer="https://makrodigitaltelevision.com",MakroDigital Television (1080p)
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Ecuador" http-referrer="https://makrodigitaltelevision.com",MakroDigital Television (1080p)
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Manavision.ec@SD" tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Ecuador",Manavisión (480p)
@@ -377,7 +377,7 @@ https://eu1.servers10.com:8081/8028/index.m3u8
 https://eu1.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-id="MulticanalCatamayo.ec@SD" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="Ecuador",Multicanal Catamayo (720p) [Not 24/7]
 https://multicanal.streamseguro.com/hls/streaming.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Latin America (720p)
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Ecuador",Nickelodeon Latin America (720p)
 http://179.51.136.19:8000/play/a0q4/index.m3u8
 #EXTINF:-1 tvg-id="NukaTV.ec@SD" tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Ecuador",Ñuka TV (720p)
 https://cloudvideo.servers10.com:8081/8118/index.m3u8
@@ -399,7 +399,7 @@ http://190.107.232.9:8082/livestream/stream.m3u8
 https://cloudvideo.servers10.com:8081/8216/index.m3u8
 #EXTINF:-1 tvg-id="RadioMonumentalTV.ec@SD" tvg-logo="https://i.imgur.com/a97MaV2.png" group-title="Music",Radio Monumental TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="RTU.ec@SD" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="News",RTU (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTU.ec@SD" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="Ecuador",RTU (1080p) [Not 24/7]
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="RTV.ec@SD" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador",RTV Riobamba (720p) [Not 24/7]
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
